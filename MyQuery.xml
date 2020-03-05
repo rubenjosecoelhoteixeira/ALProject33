@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Result" msdata:Locale="">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Result" msdata:Locale="">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Bill_to_Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Order_Date" type="xs:int" minOccurs="0" />
+                <xs:element name="Count_" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Result>
+    <Bill_to_Name>Autohaus Mielberg KG</Bill_to_Name>
+    <Order_Date>14</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>Autohaus Mielberg KG</Bill_to_Name>
+    <Order_Date>24</Order_Date>
+    <Count_>2</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>Autohaus Mielberg KG</Bill_to_Name>
+    <Order_Date>29</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>Beef House</Bill_to_Name>
+    <Order_Date>14</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>Beef House</Bill_to_Name>
+    <Order_Date>18</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>Blanemark Hifi Shop</Bill_to_Name>
+    <Order_Date>20</Order_Date>
+    <Count_>4</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>Candoxy Nederland BV</Bill_to_Name>
+    <Order_Date>25</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>Deerfield Graphics Company</Bill_to_Name>
+    <Order_Date>20</Order_Date>
+    <Count_>3</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>Designstudio Gmunden</Bill_to_Name>
+    <Order_Date>15</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>Designstudio Gmunden</Bill_to_Name>
+    <Order_Date>18</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>Designstudio Gmunden</Bill_to_Name>
+    <Order_Date>24</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>Englunds Kontorsmöbler AB</Bill_to_Name>
+    <Order_Date>21</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>Fairway Sound</Bill_to_Name>
+    <Order_Date>20</Order_Date>
+    <Count_>2</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>Fairway Sound</Bill_to_Name>
+    <Order_Date>31</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>Guildford Water Department</Bill_to_Name>
+    <Order_Date>26</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>John Haddock Insurance Co.</Bill_to_Name>
+    <Order_Date>14</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>John Haddock Insurance Co.</Bill_to_Name>
+    <Order_Date>20</Order_Date>
+    <Count_>3</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>John Haddock Insurance Co.</Bill_to_Name>
+    <Order_Date>24</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>Klubben</Bill_to_Name>
+    <Order_Date>29</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>Lovaina Contractors</Bill_to_Name>
+    <Order_Date>29</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>MEMA Ljubljana d.o.o.</Bill_to_Name>
+    <Order_Date>7</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>MEMA Ljubljana d.o.o.</Bill_to_Name>
+    <Order_Date>22</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>MEMA Ljubljana d.o.o.</Bill_to_Name>
+    <Order_Date>27</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>MEMA Ljubljana d.o.o.</Bill_to_Name>
+    <Order_Date>29</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>New Concepts Furniture</Bill_to_Name>
+    <Order_Date>29</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>Selangorian Ltd.</Bill_to_Name>
+    <Order_Date>20</Order_Date>
+    <Count_>3</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>Selangorian Ltd.</Bill_to_Name>
+    <Order_Date>29</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>The Cannon Group PLC</Bill_to_Name>
+    <Order_Date>20</Order_Date>
+    <Count_>3</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>The Cannon Group PLC</Bill_to_Name>
+    <Order_Date>28</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>The Device Shop</Bill_to_Name>
+    <Order_Date>20</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+  <Result>
+    <Bill_to_Name>The Device Shop</Bill_to_Name>
+    <Order_Date>31</Order_Date>
+    <Count_>1</Count_>
+  </Result>
+</DataSet>
